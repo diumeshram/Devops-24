@@ -1,6 +1,6 @@
 ---
 - name: my first playbook
-  hosts: all
+  hosts: local host
   vars:
     a: hello worold, welcome to plamet earth
     b: welcome to cloudblitz
